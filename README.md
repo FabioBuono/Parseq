@@ -1,0 +1,3 @@
+# Parseq
+## The simplest language for parallel programming that can be imagined -
+## Useful for teaching and not only ...
